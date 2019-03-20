@@ -6,3 +6,25 @@
 #navbar1{
     background-color: rgb(235, 238, 240);
 }
+
+#search_bar{
+    width: 250px;
+}
+
+#carousel1{
+    height: 500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0px;
+}
+
+#mybtn{
+    width: 200px;
+}
+
+
+/* This does not work on mobile devices but who cares */
+
+/* .dropdown:hover .dropdown-menu {
+    display: block;
+ } */
