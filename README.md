@@ -1,5 +1,5 @@
 ### CSIT208 GROUP 8 WEBSITE
-===================
+___________________________
 
 ### Group Members
 
@@ -19,7 +19,7 @@ Gilbert
 ================
 This is the remake of the university of Ghana website by hard coding all the pages together. 
 
-###Goal
+### Goal
 ==================
 To achieve a well designed easy to navigate website with better experience and quick access to more information.
 
