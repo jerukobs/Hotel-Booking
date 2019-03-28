@@ -3,8 +3,8 @@
     border: 3px solid rgb(0, 225, 255);
 }
 
-#navbar1{
-    background-color: rgb(235, 238, 240);
+#nav1{
+    margin: 0px;
 }
 
 #search_bar{
@@ -12,7 +12,7 @@
 }
 
 #carousel1{
-    height: 500px;
+    max-height: 500px !important;
     width: 100%;
     margin: 0 auto;
     padding: 0px;
@@ -21,6 +21,110 @@
 #mybtn{
     width: 200px;
 }
+
+
+#news_content{
+    margin: 15px;
+}
+
+#footer1{
+    background-color: aquamarine;
+    color: rgb(74, 123, 231);
+}
+
+.carousel-caption{
+    top: 30%;
+}
+
+footer{
+    background-color: rgb(53, 53, 53);
+    margin: 0 !important;
+    width: 100% !important;
+    font-family: sans-serif;
+    color: #ffffff;
+    padding-top: 20px;
+    font-size: 15px;
+}
+
+footer li {
+    font-size: 12px;
+}
+
+.row{
+    margin-left: 20px;
+}
+
+div .col-md-2 {
+    margin: 20px;
+}
+
+
+footer h4 {
+    color: rgb(0, 153, 255);
+}
+
+#itemcol{
+    margin: 5px;
+    border: solid 1px ;
+}
+
+
+ul{
+    list-style-type: none;
+    padding-left: 0;
+    line-height: 1.7;
+}
+
+h4 {
+    font-weight: bold;
+    margin-bottom: 12px !important;
+}
+
+.footer-copyright{
+    
+    height: 80px;
+    background-color: #1f1f1f;
+    padding: 20px;
+    
+    
+}
+
+.col-md-2{
+    position: relative;
+}
+
+
+
+.social-icons{
+    float: right;
+}
+
+.copyright-text{ 
+    float: left;
+}
+
+
+.icon1{
+    width: 20px;
+    height: 20px;
+}
+
+.copyright-text #copyright-text-header{
+    font-weight: bold;
+}
+
+ul li a span {
+    margin-right: 5px;
+}
+
+ul li a:hover {
+    color: rgb(0, 153, 255);
+    
+}
+
+
+
+
 
 
 /* This does not work on mobile devices but who cares */
