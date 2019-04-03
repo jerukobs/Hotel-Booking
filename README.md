@@ -1,4 +1,5 @@
-### CSIT208 GROUP 8 WEBSITE
+# CSIT208 GROUP 8 WEBSITE DOCUMENTATION 
+## _Website Revamp_
 ___
 
 ### Group Members
@@ -23,18 +24,26 @@ ___
 >Mercedez Benz E63 S
 
 
-### Project
----
-This is the remake of the university of Ghana website by hard coding all the pages together. 
 
-### Goal
+## Documentation
+The main purpose is to revamp but __not change__ the Universities prestigious website.
+IT is evident that the website acks a few design elements thus outr choice to redesign the website. To improve
+the experience users have on the website and to engage people.
+
+## Project
 ---
-To achieve a well designed easy to navigate website with better experience and quick access to more information.
+This is the remake of the university of Ghana website by hard coding all the pages together using bootstrap. 
+
+## Goal
+---
+To achieve a well designed easy to navigate website with better experience and quick access to relevant more information.
 
 This is a website we are doing for our university. We dont intent to fix or get them to use this project for the real website but this is how we envision the website to look like. (As well as MIS WEB INTERFACE FOR THE SCHOOL)
 
 
-### Teams 
+
+
+## Teams 
 ```javascript
 Afua, Mercedez E63 S, Priscilla: Managing content and gathering resources
 ```
@@ -51,6 +60,7 @@ Elvis, Stennis : Handle the back-end manipulations
 ```javascript
 Gilbert : Overseeing Progress
 ```
+
 
 
 
