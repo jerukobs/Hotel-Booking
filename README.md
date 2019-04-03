@@ -35,22 +35,22 @@ This is a website we are doing for our university. We dont intent to fix or get 
 
 
 ### Teams 
-'''javascript
+```javascript
 Afua, Mercedez E63 S, Priscilla: Managing content and gathering resources
-'''
+```
 
-'''javascript
+```javascript
 Calvin, Kobby, Jeffery, Elvis : Handling the development of MIS WEB
-'''
+```
 
 
-'''javascript
+```javascript
 Elvis, Stennis : Handle the back-end manipulations
-'''
+```
 
-'''javascript
+```javascript
 Gilbert : Overseeing Progress
-'''
+```
 
 
 
