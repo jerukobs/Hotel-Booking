@@ -5,60 +5,61 @@ ___
 ### Group Members
 
 
->Elvis
+>Elvis Komla Agbesi
 
->Gilbert
+>Just Gilbert
 
->Stennis
+>Stennis Smith
 
->Calvin 
+>Calvin Asantey 
 
->Jeru kobs
+>Jerubaal Asiedu
 
->Patience Afua
+>Patience Afua Yeboah
 
->Mercedez
+>Mercedez Goodie Ferguson-Krakue
 
->Maame
-
->Mercedez Benz E63 S
+>Priscilla Ofosu
 
 
 
-## Documentation
-The main purpose is to revamp but __not change__ the Universities prestigious website.
-IT is evident that the website lacks a few design elements thus our choice to redesign the website. To improve
-the experience users have on the website and to engage people.
 
-## Project
+
+## PROJECT
 ---
-This is the remake of the university of Ghana website by hard coding all the pages together using bootstrap. 
 
-## Goal
+A remake of the University of Ghana school website.
+The main purpose of this project is to modify but __not change__ the University's prestigious website.
+It is evident that the website lacks a few design elements thus our choice to redesign the website. We also aim at improving
+the user experience and interaction on the website.
+
+
+
+## OBJECTIVE
 ---
-To achieve a well designed easy to navigate website with better experience and quick access to relevant more information.
+To achieve a well-designed and easily navigable website with better user experience and quick access to relevant information.
 
-This is a website we are doing for our university. We dont intent to fix or get them to use this project for the real website but this is how we envision the website to look like. (As well as MIS WEB INTERFACE FOR THE SCHOOL)
-
-
+We don't intend to fix or get them to use this project for the real website but this is how we envision the website to look like. (As well as the MIS WEB INTERFACE for the school)
 
 
-## Teams 
+
+
+## TEAMS
 ```javascript
-Afua, Mercedez E63 S, Maame: Managing content and gathering resources
+Afua, Mercedez, Priscilla: Content Managing and Resource Gathering
 ```
 
 ```javascript
-Calvin, Kobby, Jeffery: Handling the development of MIS WEB
+Calvin, Kobby, Jeffery: MIS WEB Development
 ```
 
 
 ```javascript
-Elvis, Stennis : Handle the back-end manipulations
+Elvis, Stennis : Backend Manipulations
 ```
 
 ```javascript
-Gilbert : Overseeing Progress
+Gilbert : Auditing
 ```
 
 
