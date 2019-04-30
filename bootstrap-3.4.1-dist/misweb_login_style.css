@@ -42,11 +42,20 @@ h2{
 }
 
 header{
-    background-color: rgba(0, 136, 255, 0.61);
-    border: 2px solid;
-    padding: 30px;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    color:white;
     border-bottom-color: rgb(0, 119, 255);
+    padding: 30px; 
     box-shadow: 0px 0px 10px rgba(94, 94, 94, 0.377);
+
+    /*background-color: rgb(0, 0, 128);
+    border: 2px solid;
+    color:white;
+    border-bottom-color: rgb(0, 119, 255);
+    padding: 30px; 
+    box-shadow: 0px 0px 10px rgba(94, 94, 94, 0.377)
+    //origoinal background-color: rgba(0, 136, 255, 0.61);*/
 }
 
 #input\u\1{
@@ -67,7 +76,9 @@ li{
 
 footer{
     margin: 0 auto;
-    background-color: rgba(0, 136, 255, 0.61);
+    /* background: rgb(2,0,36);*/
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+    background-color: rgb(0, 0, 128);
     bottom : 0 ;
     height: 60px;
     width: 100%;
